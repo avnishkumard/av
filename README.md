@@ -1,7 +1,11 @@
 # cypress-fiddle [![renovate-app badge][renovate-badge]][renovate-app] [![CircleCI](https://circleci.com/gh/cypress-io/cypress-fiddle/tree/master.svg?style=svg)](https://circleci.com/gh/cypress-io/cypress-fiddle/tree/master)
 > Generate Cypress tests live from HTML and JS
 
-Instantly experiment with Cypress tests by creating a tiny live HTML fiddle and running E2E tests against it.
+Instantly experiment with Cypress tests by creating a tiny live H
+
+
+
+TML fiddle and running E2E tests against it.
 
 ![runExample test](images/runExample.png)
 
