@@ -3,7 +3,7 @@
 
 Instantly experiment with Cypress tests by creating a tiny live HTML fiddle and running E2E tests against it.
 
-![runExample test](images/runExample.png)
+![runExample test](images/runExample.png)aaa
 \\
 ## Install
 
