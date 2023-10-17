@@ -11,7 +11,7 @@ Cypress is a peer dependency of this module. Install the current version of Cypr
 
 After installing Cypress, install this module via npm:
 
-```shell
+```shellanc
 npm i -D @cypress/fiddle
 ```
 
